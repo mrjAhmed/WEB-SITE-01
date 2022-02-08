@@ -59,14 +59,14 @@ h2{
     background-position: left;
 }
 #full-stak{
-    border-right:7px solid;
+    border-left:7px solid;
     border-image:linear-gradient(180deg,rgb(25, 226, 183),black);
     border-image-slice: 1;
 
 
 }
 #beginner{
-    border-right:7px solid;
+    border-left:7px solid;
     border-image:linear-gradient(190deg,rgb(218, 221, 21),rgb(8, 8, 8));
     border-image-slice: 1;
 
